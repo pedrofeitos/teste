@@ -1,4 +1,2 @@
-Este é o conteúdo inicial do arquivo
-
-Esta é uma alteração na branch principal
-primeira linha 
+linha1 
+linha2
