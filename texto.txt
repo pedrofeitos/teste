@@ -1,0 +1,3 @@
+Este é o conteúdo inicial do arquivo
+
+Esta é uma alteração na branch principal
